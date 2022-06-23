@@ -1,0 +1,54 @@
+ 
+ 
+ *********************** GITHUB é GITLAB  ***********************
+ 
+ **** Apagar projeto do {GITHUB}
+
+ clicar no projeto *** Settings ***
+ dece para baixo
+ Danger Zone *** Delete repositorio
+ 
+ 
+ **** Apagar projeto do {GITLAB}
+ 
+ clicar no projeto *** Settings *** General ***
+ Advanced *** Delete projeto
+ 
+ 
+ **** GITHUB/publico é privado 
+ 
+ Settings *** Danger Zone *** Change repository visibillity
+ 
+ 
+ **** Como subir é Atualizar um Projeto para ****
+ **** O GITHUB no Intellij IDEA ****
+ 
+ controle de versão ou Git ou vcs
+ 
+ 
+ **** CMD ****
+ Como subir um projeto para o GITHUB no CMD.
+ entra na sua pasta do projeto no Explorador de arquivos
+ 
+ c:\Users\Administrador
+ cd c:\Newman
+ Git init
+ Git add .
+ Git commit -m "first commit"
+ Git remote add origin https://github.com/Digaojardim
+ Git push -u origin master 
+ 
+ 
+ **** Clonando um repositório do GITHUB no Eclipse ****
+ 
+  1º entra no github, copiar o "endereço ou url"
+  2º window *** show view *** other *** git *** 
+     ctrl *** seleciona *** git repositories, git staging 
+	 git repositories, clica na seta amarela e verde.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
