@@ -48,6 +48,15 @@
  
  
  
+ *** Clonando Repositorio 
+   
+   git clone https://github.com...
+   
+   ** error: remote origin already exists.
+   git remote rm origin
+   git remote rm upstream
+   git remote add origin https://github...
+ 
  
  
  
